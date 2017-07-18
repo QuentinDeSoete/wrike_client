@@ -51,9 +51,3 @@ func (w *Wrike) CreateFolder (id string, c CreateFolder) (m Folders) {
 	m = FormatResponse(resp)
 	return
 }
-
-func (w *Wrike) DeleteFolder (id string) (m Folders) {
-	resp := DeleteWrikeRequest(fmt.Sprint("/folders/", id), w)
-	m = FormatResponse(resp)
-	return
-}
