@@ -6,9 +6,8 @@ import (
 	"log"
 	"encoding/json"
 	"bytes"
-	"io/ioutil"
+	"github.com/QuentinDeSoete/wrike_client/structures"
 	"github.com/QuentinDeSoete/wrike_client/folders"
-	"github.com/QuentinDeSoete/wrike_client/structs"
 )
 
 var VERSION = "0.1.0"

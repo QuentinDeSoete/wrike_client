@@ -1,9 +1,9 @@
 package folders
 
 import (
-	"github.com/QuentinDeSoete/wrike_client/structs"
 	"net/http"
 	"fmt"
+	"github.com/QuentinDeSoete/wrike_client/structures"
 )
 
 func (w *Wrike) GetFoldersTree(id Id) (m Folders){
