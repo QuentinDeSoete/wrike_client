@@ -6,7 +6,7 @@ import (
 	"log"
 	"encoding/json"
 	"bytes"
-	"github.com/QuentinDeSoete/wrike_client/structures"
+	"github.com/QuentinDeSoete/wrike_client/structs"
 	"github.com/QuentinDeSoete/wrike_client/folders"
 )
 
