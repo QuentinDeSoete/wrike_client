@@ -1,7 +1,7 @@
 package folders
 
 import (
-	"github.com/wrike_client/structs"
+	"github.com/QuentinDeSoete/wrike_client/structs"
 	"net/http"
 	"fmt"
 )
