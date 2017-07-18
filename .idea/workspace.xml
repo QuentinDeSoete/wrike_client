@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4358686-6e35-45eb-b981-dc0de37a4aff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/folders/folders.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/structs/structs.go" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wrike_client.go" />
-    </list>
+    <list default="true" id="d4358686-6e35-45eb-b981-dc0de37a4aff" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
