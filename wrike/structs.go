@@ -1,4 +1,4 @@
-package structs
+package wrike
 
 import (
 	"net/http"
@@ -11,6 +11,10 @@ type Wrike struct{
 	url string
 	token string
 	client *http.Client
+}
+
+func NewWrike(url string, token string, client *http.Client) Wrike {
+	return Wrike{url,token,client}
 }
 
 type ModifyFolder struct{
